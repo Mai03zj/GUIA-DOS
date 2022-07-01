@@ -1,0 +1,33 @@
+.img img{
+    width: 100%;
+    height: 300px;
+}
+
+.img1 img {
+    width: 100%;
+    height: 400px;
+}
+
+.img2 img {
+    width: 100%;
+    height: 150px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: 'Tangerine', cursive;
+}
+h2{
+    color: white;
+}
+h3{
+    color: beige;
+}
+p{
+    color: beige;
+}
+h4{
+    color: white;
+}

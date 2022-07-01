@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.cajare{
+    background-color: rgb(255, 94, 0);
+    height: 300px;
+    margin-top: 5px;
+}
+.cajare2{
+    background-color:rgb(13, 85, 87);
+    height: 300px;
+    margin-top: 5px;
+
+}
+h1{
+    color: white;
+    font-family: 'Tangerine', cursive;
+}
+h3{
+    color: white;
+}
